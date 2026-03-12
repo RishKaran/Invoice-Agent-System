@@ -1,0 +1,9 @@
+{
+  "_comment": "Inventory catalog — edit stock levels here; system loads this at startup. Falls back to inventory.db if file is absent.",
+  "items": [
+    {"item": "WidgetA",  "stock": 15},
+    {"item": "WidgetB",  "stock": 10},
+    {"item": "GadgetX",  "stock": 5},
+    {"item": "FakeItem", "stock": 0}
+  ]
+}
